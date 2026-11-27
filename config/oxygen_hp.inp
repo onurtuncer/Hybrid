@@ -1,0 +1,5 @@
+problem hp
+  p,bar=1
+reactants
+  name=O2 moles=1 t,k=3500
+end
